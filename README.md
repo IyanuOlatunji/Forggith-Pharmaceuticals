@@ -16,4 +16,4 @@ The dataset was provided by Ahmed Oyelowo as a one-month internship program on F
 ## Analysis, Visualization, and Insights
 Different charts were employed to analyze the dataset and extract valuable insights.
 
-Find full documentation [here]()
+Find full documentation [here](https://medium.com/@iyanuolatunji21/forggith-pharmaceuticals-sales-analysis-with-power-bi-4840fd03efa8)
